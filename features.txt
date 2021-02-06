@@ -1,0 +1,4 @@
+char letra='f';
+char letra_2='k';
+int valorNumerico=10;
+float val=10.0;

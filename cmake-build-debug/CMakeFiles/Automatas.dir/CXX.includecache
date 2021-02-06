@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Users/defin/CLionProjects/Automatas/main.cpp
+iostream
+-
+conio.h
+-
+ctime
+-
+cstdlib
+-
+iomanip
+-
+
